@@ -213,6 +213,7 @@
     <Content Include="media\Baseball.mp4" />
     <Content Include="media\cloud.jpg" />
     <Content Include="media\cloud.mp4" />
+    <Content Include="media\baseball.gif" />
     <Content Include="media\Football.mp4" />
     <Content Include="media\Hockey.mp4" />
     <Content Include="media\Soccer.mp4" />

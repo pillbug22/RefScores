@@ -154,7 +154,7 @@ $(function(){
       tagName: 'referee',
       resolution: 'standard_resolution', //thumbnail (default) - 150x150, low_resolution - 306x306, standard_resolution - 612x612
       limit:'12', //Maximum number of Images to add. Max of 60.
-      accessToken: '184828764.467ede5.483357e68f06431aa09811cdf315f8ce', //Generate access token http://jelled.com/instagram/access-token
+      accessToken: 'd300ffe31f49467e971ddea71818953d', //Generate access token http://jelled.com/instagram/access-token
       template: '<div class="col-md-2 instagram-listing"><a href="{{link}}" target="_blank"><img class="img-responsive" src="{{image}}" /><div class="instagram-overlay"><p class="instagram-caption">{{caption}}</p><span class="instagram-likes">{{likes}} <span class="icon_heart_alt"></span></span><span class="social_instagram_square"></span></div></a></div>',
 
       //filter by tag if you want :)
