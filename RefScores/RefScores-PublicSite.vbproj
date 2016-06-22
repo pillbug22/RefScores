@@ -117,6 +117,7 @@
     <Content Include="css\vendor\owl.carousel.css" />
     <Content Include="css\vendor\style-switcher.css" />
     <Content Include="favicon.ico" />
+    <Content Include="images\leagues\PSA-Logo.png" />
     <Content Include="images\leagues\ThePit.png" />
     <Content Include="images\leagues\thumb\ThePit-thumb.png" />
     <Content Include="images\refscores-logo-big.png" />
